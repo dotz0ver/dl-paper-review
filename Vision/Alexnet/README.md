@@ -12,7 +12,7 @@ This folder contains a reproduction of the **AlexNet** model from the landmark p
 
 - 📄 **Paper**: [ImageNet Classification with Deep CNNs (NIPS 2012)](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 - ✍️ **My Review**: [Paper Review](https://dotz0ver.tistory.com/45)
-- 🧪 **Implementation Notebook**: [`Vision/Alexnet/alexnet.ipynb`](.alexnet.ipynb)
+- 🧪 **Implementation Notebook**: [`Vision/Alexnet/alexnet.ipynb`](./alexnet.ipynb)
 
 ---
 
